@@ -1,0 +1,13 @@
+{
+    "create_user": {
+        "firstName": "Test",
+        "lastName": "User",
+        "username": "testuser",
+        "email": "testuser@example.com"
+    },
+    "update_user": {
+        "firstName": "Updated",
+        "lastName": "User",
+        "email": "updated@example.com"
+    }
+}
